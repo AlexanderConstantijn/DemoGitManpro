@@ -1,1 +1,3 @@
-Percobaan pertama push ke GitHub
+Percobaan pertama push ke GitHub 
+edit 1
+
